@@ -117,18 +117,18 @@ The data consisted of **4 CSV files**:
 
 | 🔹 Dashboard Name        | Preview                                     |
 |-------------------------|---------------------------------------------|
-| **Overall Summary**     | ![Overall Summary](./images/overall.png)    |
-| **Batting Performance** | ![Batting Dashboard](./images/batting.png)  |
-| **Bowling Performance** | ![Bowling Dashboard](./images/bowling.png)  |
-| **Team Performance**    | ![Team Dashboard](./images/team.png)        |
-| **Predictions**         | ![Prediction](./images/prediction.png)      |
+| **Overall Summary**     | ![Overall Summary](Check Out In The Pdf Sports Basics Cricket Insights Power Bi Dashboards PDF.pdf)     |
+| **Batting Performance** | ![Batting Dashboard](Check Out In The Pdf Sports Basics Cricket Insights Power Bi Dashboards PDF.pdf)   |
+| **Bowling Performance** | ![Bowling Dashboard](Check Out In The Pdf Sports Basics Cricket Insights Power Bi Dashboards PDF.pdf)  |
+| **Team Performance**    | ![Team Dashboard](Check Out In The Pdf Sports Basics Cricket Insights Power Bi Dashboards PDF.pdf)         |
+| **Predictions**         | ![Prediction](Check Out In The Pdf Sports Basics Cricket Insights Power Bi Dashboards PDF.pdf)      |
 
 ---
 
 ## 🚀 Let's Connect!
 If you liked this project, feel free to connect:
-- 💼 [LinkedIn](YOUR_LINKEDIN_LINK)
-- 🐱 [GitHub](YOUR_GITHUB_PROFILE)
+ **Google Colab Notebook**: [https://colab.research.google.com/drive/1oZNCrl9P5mvBiSDOmyteO-2g4BI4gAF-#scrollTo=8R5w0Xrj_JgW)
+- **LinkedIn**: [Anurag Mishra](https://www.linkedin.com/in/anurag-mishra-b17051288/) 
 
 ---
 
