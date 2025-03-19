@@ -1,6 +1,7 @@
 # 🏏 IPL 2024 Data Analytics Project – Sports Basics Edition
 
-> 📽️ **Video Presentation Link**: [Watch Here]([https://youtu.be/Qz9WkNEv9pA?si=rd1v7b2bZfVF0LFB](https://youtu.be/Qz9WkNEv9pA?si=rd1v7b2bZfVF0LFB)])
+> 📽️ **Video Presentation Link**: [Watch Here](https://youtu.be/Qz9WkNEv9pA?si=rd1v7b2bZfVF0LFB)
+
 
 ---
 
