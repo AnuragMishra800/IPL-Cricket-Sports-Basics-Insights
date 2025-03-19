@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/AnuragMishra800/IPL-Cricket-Sports-Basics-Insights/blob/main/banner.png" alt="IPL Cricket Analytics 2024 Banner"/>
+</p>
+
+
 # 🏏 IPL 2024 Data Analytics Project – Sports Basics Edition
 
 > 📽️ **Video Presentation Link**: [Watch Here](https://youtu.be/Qz9WkNEv9pA?si=rd1v7b2bZfVF0LFB)
