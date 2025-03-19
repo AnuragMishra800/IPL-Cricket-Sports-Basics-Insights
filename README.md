@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/AnuragMishra800/IPL-Cricket-Sports-Basics-Insights/blob/main/banner.png" alt="IPL Cricket Analytics 2024 Banner"/>
+</p>
 
 
 
